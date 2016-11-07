@@ -21,3 +21,7 @@ Diagrams help you see commits in a parent child format and also track unreachabl
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Code from both branches are merged together, with history on both sides. Diagram representation shows two timelines merging together.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git auto merge reduces manual errors that may occur when doing manual merge every time.
