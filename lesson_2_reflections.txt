@@ -9,3 +9,15 @@ Staging area is like a intermediate space b/w working directory and repository. 
 How can you use the staging area to make sure you have one commit per logical change?
 
 Staging area can you use as a verification stage to check one commit has one logical change. Command: git diff --staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Example would be trying a experimental feature which may not be part of production code for some time. Branch would keep both lines separate, and allow easy development.
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help you see commits in a parent child format and also track unreachable code in some cases.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Code from both branches are merged together, with history on both sides. Diagram representation shows two timelines merging together.
