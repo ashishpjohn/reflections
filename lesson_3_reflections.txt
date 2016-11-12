@@ -15,3 +15,7 @@ Fork: used to clone someone else repository to your remote space.
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It helps you revert back whenever you feel a need to go back to old state.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Manual or some other version control. The offline/online option while using git will be difficult to recreate.
