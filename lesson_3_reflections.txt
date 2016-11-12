@@ -5,3 +5,9 @@ When I want to share my content with other people.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I may not be periodically changes things that need auto up-date. Manual gives me control on how i want to maintain remote repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branch: to maintain 2 more timlines for local changes.
+Clone: used to clone a repository. Mostly from remote to local.
+Fork: used to clone someone else repository to your remote space.
