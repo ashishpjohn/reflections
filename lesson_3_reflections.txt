@@ -19,3 +19,7 @@ It helps you revert back whenever you feel a need to go back to old state.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Manual or some other version control. The offline/online option while using git will be difficult to recreate.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When my changes are experimental. I want to keep working on my new task, but dont want to merge to master until I am sure it works.
